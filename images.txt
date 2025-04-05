@@ -7,3 +7,4 @@ langgenius/dify-web:latest
 redis:6-alpine
 postgres:15-alpine
 langgenius/dify-sandbox
+docker.n8n.io/n8nio/n8n
