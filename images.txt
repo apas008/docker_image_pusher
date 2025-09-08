@@ -15,4 +15,4 @@ ghcr.io/labring/fastgpt:latest
 #pyqlib/qlib_image_stable:stable
 #apitable/all-in-one:latest
 #neosmemo/memos:stable
-finstep/contesttrade:latest
+finstep/contesttrade:v1.1
