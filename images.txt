@@ -14,4 +14,5 @@
 #ghcr.io/labring/fastgpt-mcp_server:v4.9.6
 #pyqlib/qlib_image_stable:stable
 #apitable/all-in-one:latest
-neosmemo/memos:stable
+#neosmemo/memos:stable
+finstep/contesttrade
