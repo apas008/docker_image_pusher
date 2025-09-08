@@ -15,4 +15,4 @@
 #pyqlib/qlib_image_stable:stable
 #apitable/all-in-one:latest
 #neosmemo/memos:stable
-finstep/contesttrade
+finstep/contesttrade:latest
